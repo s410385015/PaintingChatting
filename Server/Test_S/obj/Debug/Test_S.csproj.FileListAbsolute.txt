@@ -1,0 +1,9 @@
+c:\users\nako\documents\visual studio 2013\Projects\Test_S\Test_S\bin\Debug\Test_S.exe.config
+c:\users\nako\documents\visual studio 2013\Projects\Test_S\Test_S\bin\Debug\Test_S.exe
+c:\users\nako\documents\visual studio 2013\Projects\Test_S\Test_S\bin\Debug\Test_S.pdb
+c:\users\nako\documents\visual studio 2013\Projects\Test_S\Test_S\obj\Debug\Test_S.exe
+c:\users\nako\documents\visual studio 2013\Projects\Test_S\Test_S\obj\Debug\Test_S.pdb
+C:\Users\Nako\Documents\Visual Studio 2013\Projects\Test_S\Test_S\obj\Debug\Test_S.csprojResolveAssemblyReference.cache
+C:\Users\Nako\Documents\Visual Studio 2013\Projects\chat server\Test_S\bin\Debug\Test_S.exe.config
+C:\Users\Nako\Documents\Visual Studio 2013\Projects\chat server\Test_S\obj\Debug\Test_S.exe
+C:\Users\Nako\Documents\Visual Studio 2013\Projects\chat server\Test_S\obj\Debug\Test_S.pdb
